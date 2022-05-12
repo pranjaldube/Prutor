@@ -4,10 +4,10 @@ The screenshots for the APIs are attached below:
 
 For the add_events API:
 
-![image-20220512225617353](C:\Users\kesha\AppData\Roaming\Typora\typora-user-images\image-20220512225617353.png)
+![1](assets/1.png)
 
 For the get_events API:
 
-![image-20220512225752613](C:\Users\kesha\AppData\Roaming\Typora\typora-user-images\image-20220512225752613.png)
+![2](assets/2.png)
 
-![image-20220512225834868](C:\Users\kesha\AppData\Roaming\Typora\typora-user-images\image-20220512225834868.png)
+![3](assets/3.png)
